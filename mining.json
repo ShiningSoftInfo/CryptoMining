@@ -13,7 +13,7 @@
   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_midnative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "back_ads": "no",
+  "back_ads": "yes",
   "app_opentime": "1",
   "app_openFirsttime": "1",
   "background_color_yes_no": "1",
